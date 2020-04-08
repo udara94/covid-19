@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">COVID-19 Sri Lanka</string>
+
+    <!-- Splash Screen -->
+    <string name="lbl_powerd_by">Powered by Flicker</string>
+
+    <!-- Home Fragment-->
+    <string name="local_new_cases">Local New Cases</string>
+    <string name="local_total_cases">Local Total Cases</string>
+    <string name="local_total_number_of_individuals_in_hospitals">Local Individuals In Hospitals</string>
+    <string name="local_deaths">Local Deaths</string>
+    <string name="local_new_deaths">Local New Deaths</string>
+    <string name="local_recovered">Local Recovered</string>
+    <string name="local_active_cases">Local Active Cases</string>
+    <string name="global_new_cases">Global New Cases</string>
+    <string name="global_total_cases">Global Total Cases</string>
+    <string name="global_deaths">Global Deaths</string>
+    <string name="global_new_deaths">Global New Deaths</string>
+    <string name="global_recovered">Global Recovered</string>
+    <string name="btn_hospital_details">Hospital Report</string>
+    <string name="last_updated">Last updated date:</string>
+
+    <!-- Hospital List Fragment -->
+    <string name="title_hospital_list">Hospital List</string>
+
+    <!-- Hospital Details Fragment -->
+    <string name="title_hospital_details">Hospital Details</string>
+    <string name="cumulative_local">Total number of Sri Lankans who have been treated /observed for COVID-19 in a given hospital</string>
+    <string name="cumulative_local_sin">දී ඇති රෝහලක COVID-19 සඳහා ප්‍රතිකාර ලබා ඇති / නිරීක්ෂණය කළ ශ්‍රී ලාංකිකයින් සංඛ්‍යාව</string>
+
+    <string name="cumulative_foreign">Total number of foreigners who have been treated /observed for COVID-19 in a given hospital</string>
+    <string name="cumulative_foreign_sin">දී ඇති රෝහලක COVID-19 සඳහා ප්‍රතිකාර ලබා ඇති / නිරීක්ෂණය කළ මුළු විදේශිකයින් සංඛ්‍යාව</string>
+
+    <string name="treatment_local">Total number of Sri Lankans who are currently on treatment/observation for COVID-19 in a given hospital</string>
+    <string name="treatment_local_sin">ලබා දී ඇති රෝහලක COVID-19 සඳහා දැනට ප්‍රතිකාර / නිරීක්ෂණයේ සිටින ශ්‍රී ලාංකිකයින් සංඛ්‍යාව</string>
+
+    <string name="treatment_foreign">Total number of foreigners who are currently on treatment/observation for COVID-19 in a given hospital</string>
+    <string name="treatment_foreign_sin">දී ඇති රෝහලක COVID-19 සඳහා දැනට ප්‍රතිකාර / නිරීක්ෂණයේ යෙදී සිටින මුළු විදේශිකයින් සංඛ්‍යාව</string>
+
+    <string name="cumulative_total">Total number of patients who have been treated /observed for COVID-19 in a given hospital</string>
+    <string name="cumulative_total_sin">දී ඇති රෝහලක COVID-19 සඳහා ප්‍රතිකාර කළ / නිරීක්ෂණය කළ මුළු රෝගීන් සංඛ්‍යාව</string>
+
+    <string name="treatment_total">Total number of patients who are currently on treatment/observation for COVID-19 in a given hospital</string>
+    <string name="treatment_total_sin">ලබා දී ඇති රෝහලක COVID-19 සඳහා දැනට ප්‍රතිකාර / නිරීක්ෂණයේ සිටින මුළු රෝගීන් සංඛ්‍යාව</string>
+</resources>

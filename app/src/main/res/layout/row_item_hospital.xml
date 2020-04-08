@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/parent_container_main"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="10dp"
+    android:layout_marginTop="5dp"
+    android:layout_marginRight="10dp"
+    android:layout_marginBottom="5dp">
+
+    <RelativeLayout
+        android:background="@drawable/card_outline_drawable"
+        android:id="@+id/parent_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:padding="10dp"
+            android:id="@+id/title_layout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:elevation="30dp">
+
+            <TextView
+                android:textColor="@color/colorWhite"
+                android:textStyle="bold"
+                android:text="බෝවන රෝග පිළිබඳ ජාතික ආයතනය"
+                android:id="@+id/txt_name_si"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+                />
+            <TextView
+                android:textColor="@color/colorWhite"
+                android:layout_below="@id/txt_name_si"
+                android:text="National Institute of Infectious Diseases"
+                android:id="@+id/txt_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp"
+
+                />
+            <TextView
+                android:textColor="@color/colorWhite"
+                android:layout_below="@id/txt_name"
+                android:text="தேசிய தொற்று நோயியல் நிறுவனம்"
+                android:id="@+id/txt_name_tamil"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="20dp" />
+        </RelativeLayout>
+
+    </RelativeLayout>
+</RelativeLayout>
