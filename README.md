@@ -1,29 +1,6 @@
-# Foobar
+# Covid-19 Sri Lanka Dashborad
 
-Foobar is a Python library for dealing with word pluralization.
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
-
-```bash
-pip install foobar
-```
-
-## Usage
-
-```python
-import foobar
-
-foobar.pluralize('word') # returns 'words'
-foobar.pluralize('goose') # returns 'geese'
-foobar.singularize('phenomena') # returns 'phenomenon'
-```
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+![image](https://drive.google.com/uc?export=view&id=1ZEj29huuEP87ALrmj8qsU76PM4FCzQwu)
+![image](https://drive.google.com/uc?export=view&id=1ZFiQHAPeDFpozy-6pgbI3CT6145IiP5z)
+![image](https://drive.google.com/uc?export=view&id=1ZEktfOtZdQpOn7yBUIJroMheiq4ZMqG-)
+![image](https://drive.google.com/uc?export=view&id=1ZL9LgcOZrjb-FSiSIkU7HxdvoKVn9VoO)
